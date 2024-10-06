@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gabriel Pego  Feitosa and I'm a student, I'm from Indaiatuba-SP learning how to code in FIEC</p>
+<p align="left">My name is Gabriel Pego  Feitosa and I'm a student, I'm from Indaiatuba-SP learning how to code at FIEC</p>
 
 ###
 
