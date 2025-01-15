@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning JAVA<br>🎯 Goals: become a data engineer<br></p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning C# and C++<br>🎯 Goals: become a data engineer<br></p>
 
 ###
 
