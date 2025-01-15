@@ -31,7 +31,7 @@
   <img width = 12 />
   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  height = "40" alt="java-logo"/>
   <img width = 12 />
-  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg"  height = "40" alt="java-logo"/>
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/cpp-original.svg"  height = "40" alt="java-logo"/>
   <img width = 12 />
   
   
