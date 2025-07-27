@@ -44,10 +44,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/gpego1/gpego1/output/snake.svg" alt="Snake animation" />
-
-###
