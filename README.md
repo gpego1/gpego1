@@ -1,4 +1,4 @@
-<h2 align="left">My name is Gabriel and I'm a student, from Sao Paulo</h2>
+<h2 align="left">My name is Gabriel and I'm a student, from São Paulo</h2>
 
 
 ###
