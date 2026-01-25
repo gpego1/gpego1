@@ -6,7 +6,7 @@
 **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  https://github-readme-stats.vercel.app/api/top-langs/?username=gpego1&theme=tokyonight&show_icons=true&hide_border=false&layout=compact
+  <img> https://github-readme-stats.vercel.app/api/top-langs/?username=gpego1&theme=tokyonight&show_icons=true&hide_border=false&layout=compact </img>
 </p>
 
 
