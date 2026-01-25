@@ -6,7 +6,7 @@
 **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpego1&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  https://github-readme-stats.vercel.app/api/top-langs/?username=gpego1&theme=tokyonight&show_icons=true&hide_border=false&layout=compact
 </p>
 
 
