@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Back-end Development in Node.jd and Express<br>🎯 Goals: Become a jr dev<br>🎲 Fun fact: I love dogs</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Back-end Development in Node.jd and Express<br>🎯 Goals: Become a jr dev<br>🎲 Fun fact: I love dogs</p>
 
 ###
 
