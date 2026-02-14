@@ -3,9 +3,11 @@
 
 ###
 
-**<h3 align="left">GitHub Stats</h3>**
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Back-end Development in Node.jd and Express<br>🎯 Goals: Become a jr dev<br>🎲 Fun fact: I love dogs</p>
 
+###
 
+<h2 align="left">I code with</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
