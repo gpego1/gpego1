@@ -1,13 +1,13 @@
-<h2 align="left">My name is Gabriel and I'm a student, from São Paulo</h2>
+<h2 align="left">Gabriel Pego</h2>
 
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br> 
+<p align="left">Hello, my name is Gabriel Pego, I'm a brazillian Software Engineer currently studying and developing personal projects. I study Software Engineering at ...<br> 
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Technologies and tools</h2>
 
 <div align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
@@ -31,6 +31,7 @@
 
 ###
 
+<h2 align="left">Socials</h2>
 <div align="left">
   <a href="https://www.instagram.com/gbpego_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
