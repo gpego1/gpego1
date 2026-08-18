@@ -1,49 +1,77 @@
-<h2 align="left">Gabriel Pego</h2>
+<h1 align="center">Olá, eu sou o Gabriel Pego 👋</h1>
+<h3 align="center">Software Engineer | Estudante de Engenharia de Software na UTFPR</h3>
 
+<p align="center">
+  Desenvolvedor apaixonado por construir soluções de ponta a ponta — do back-end à interface —
+  sempre buscando aprender novas tecnologias e boas práticas de engenharia de software.
+</p>
 
-###
-
-<p align="left">Hello, my name is Gabriel Pego, I'm a brazillian Software Engineer currently studying and developing personal projects. I study Software Engineering at UTFPR<br> 
-
-###
-
-<h2 align="left">Technologies and tools</h2>
-
-<div align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-    <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="golang logo"  />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-</div>
-
-###
-
-<h2 align="left">Socials</h2>
-<div align="left">
-  <a href="https://www.instagram.com/gbpego_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-pego-0a536729b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mailto:pegogabriel30@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:pegogabriel30@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-pego-0a536729b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/gbpego_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</div>
+  <a href="https://portfolio-gabriel-pego.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
 
+---
 
+### 🚀 Sobre mim
+
+- 📍 Paraná, Brasil
+- 🎓 Cursando Engenharia de Software na UTFPR
+- 💻 Foco em desenvolvimento back-end e full stack, com projetos pessoais explorando APIs, arquitetura orientada a eventos e automação com IA
+- 🌱 Sempre estudando e evoluindo através de projetos práticos
+- 📫 Contato: pegogabriel30@gmail.com
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📌 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [spring-event-driven-ecommerce](https://github.com/gpego1/spring-event-driven-ecommerce) | E-commerce com arquitetura orientada a eventos | Java / Spring |
+| [musicApp](https://github.com/gpego1/musicApp) | Aplicação musical ⭐ | Java |
+| [api-ai-productivity](https://github.com/gpego1/api-ai-productivity) | API de produtividade com integração de IA | Python |
+| [url-shortener-analytics](https://github.com/gpego1/url-shortener-analytics) | Encurtador de URLs com analytics de acessos | TypeScript |
+| [Real-Time-Chat-React-Node.js](https://github.com/gpego1/Real-Time-Chat-React-Node.js) | Chat em tempo real | React / Node.js |
+| [bookapi-node-express](https://github.com/gpego1/bookapi-node-express) | API REST de livros | Node.js / Express |
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gpego1&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpego1&layout=compact" height="165"/>
+</p>
+
+---
+
+<p align="center">
+  🔗 Confira mais projetos no meu <a href="https://portfolio-gabriel-pego.netlify.app/">portfólio</a>
+</p>
