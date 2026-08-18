@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Hello, my name is Gabriel Pego, I'm a brazillian Software Engineer currently studying and developing personal projects. I study Software Engineering at CEUNSP<br> 
+<p align="left">Hello, my name is Gabriel Pego, I'm a brazillian Software Engineer currently studying and developing personal projects. I study Software Engineering at UTFPR<br> 
 
 ###
 
