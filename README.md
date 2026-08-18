@@ -1,39 +1,39 @@
-<h1 align="center">Olá, eu sou o Gabriel Pego 👋</h1>
-<h3 align="center">Software Engineer | Estudante de Engenharia de Software na UTFPR</h3>
+<h1 align="center">Hi, I'm Gabriel Pego 👋</h1>
+<h3 align="center">Software Engineer | Software Engineering Student at UTFPR</h3>
 
 <p align="center">
-  Desenvolvedor apaixonado por construir soluções de ponta a ponta — do back-end à interface —
-  sempre buscando aprender novas tecnologias e boas práticas de engenharia de software.
+  Developer passionate about building end-to-end solutions — from back-end to interface —
+  always looking to learn new technologies and software engineering best practices.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-pego-0a536729b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:pegogabriel30@gmail.com">
+  <a href="mailto:gpego786@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/gbpego_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://portfolio-gabriel-pego.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 About me
 
-- 📍 Paraná, Brasil
-- 🎓 Cursando Engenharia de Software na UTFPR
-- 💻 Foco em desenvolvimento back-end e full stack, com projetos pessoais explorando APIs, arquitetura orientada a eventos e automação com IA
-- 🌱 Sempre estudando e evoluindo através de projetos práticos
-- 📫 Contato: pegogabriel30@gmail.com
+- 📍 Paraná, Brazil
+- 🎓 Studying Software Engineering at UTFPR
+- 💻 Focused on back-end and full-stack development, with personal projects exploring APIs, event-driven architecture, and AI automation
+- 🌱 Always learning and growing through hands-on projects
+- 📫 Contact: gpego786@gmail.com
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies and Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
@@ -50,19 +50,19 @@
 
 ---
 
-### 📌 Projetos em destaque
+### 📌 Featured Projects
 
-| Projeto | Descrição | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| [spring-event-driven-ecommerce](https://github.com/gpego1/spring-event-driven-ecommerce) | E-commerce com arquitetura orientada a eventos | Java / Spring |
-| [musicApp](https://github.com/gpego1/musicApp) | Aplicação musical ⭐ | Java |
-| [api-ai-productivity](https://github.com/gpego1/api-ai-productivity) | API de produtividade com integração de IA | Python |
-| [url-shortener-analytics](https://github.com/gpego1/url-shortener-analytics) | Encurtador de URLs com analytics de acessos | TypeScript |
-| [Real-Time-Chat-React-Node.js](https://github.com/gpego1/Real-Time-Chat-React-Node.js) | Chat em tempo real | React / Node.js |
-| [bookapi-node-express](https://github.com/gpego1/bookapi-node-express) | API REST de livros | Node.js / Express |
+| [spring-event-driven-ecommerce](https://github.com/gpego1/spring-event-driven-ecommerce) | E-commerce built with event-driven architecture | Java / Spring |
+| [musicApp](https://github.com/gpego1/musicApp) | Music application ⭐ | Java |
+| [api-ai-productivity](https://github.com/gpego1/api-ai-productivity) | Productivity API with AI integration | Python |
+| [url-shortener-analytics](https://github.com/gpego1/url-shortener-analytics) | URL shortener with access analytics | TypeScript |
+| [Real-Time-Chat-React-Node.js](https://github.com/gpego1/Real-Time-Chat-React-Node.js) | Real-time chat application | React / Node.js |
+| [bookapi-node-express](https://github.com/gpego1/bookapi-node-express) | REST API for books | Node.js / Express |
 
-
+---
 
 <p align="center">
-  🔗 Confira mais projetos no meu <a href="https://portfolio-gabriel-pego.netlify.app/">portfólio</a>
+  🔗 Check out more projects on my <a href="https://portfolio-gabriel-pego.netlify.app/">portfolio</a>
 </p>
