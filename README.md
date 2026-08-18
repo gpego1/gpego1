@@ -27,7 +27,7 @@
 
 - 📍 Paraná, Brazil
 - 🎓 Studying Software Engineering at Federal University of Technology - Parana
-- 💻 Focused on back-end and full-stack development, with personal projects exploring APIs, event-driven architecture, and AI automation
+- 💻 Focused on back-end and full-stack development, with personal projects exploring APIs, software architecture, and AI automation
 - 🌱 Always learning and growing through hands-on projects
 - 📫 Contact: gpego786@gmail.com
 
