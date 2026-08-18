@@ -61,16 +61,7 @@
 | [Real-Time-Chat-React-Node.js](https://github.com/gpego1/Real-Time-Chat-React-Node.js) | Chat em tempo real | React / Node.js |
 | [bookapi-node-express](https://github.com/gpego1/bookapi-node-express) | API REST de livros | Node.js / Express |
 
----
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gpego1&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpego1&layout=compact" height="165"/>
-</p>
-
----
 
 <p align="center">
   🔗 Confira mais projetos no meu <a href="https://portfolio-gabriel-pego.netlify.app/">portfólio</a>
