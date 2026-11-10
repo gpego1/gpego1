@@ -1,68 +1,34 @@
-<h1 align="center">Hi, I'm Gabriel Pego 👋</h1>
-<h3 align="center">Software Engineer | Software Engineering Student at UTFPR</h3>
+# Gabriel Pego
 
-<p align="center">
-  Developer passionate about building end-to-end solutions — from back-end to interface —
-  always looking to learn new technologies and software engineering best practices.
-</p>
+I'm a Brazilian Software Engineering student at **UTFPR**, currently focused on **Python, Artificial Intelligence and backend development**. I enjoy building practical solutions that connect software engineering with AI, from APIs and automation to applications powered by large language models.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-pego-0a536729b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gpego786@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/gbpego_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://portfolio-gabriel-pego.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-</p>
+My goal is to become an **AI Engineer**, combining a strong engineering foundation with machine learning, LLMs and real-world problem solving.
 
----
+**Oracle Java Foundations** and **Oracle Cloud Infrastructure Foundations** certified.
 
-### 🚀 About me
+### Technologies and tools
 
-- 📍 Paraná, Brazil
-- 🎓 Studying Software Engineering at Federal University of Technology - Parana
-- 💻 Focused on back-end and full-stack development, with personal projects exploring APIs, software architecture, and AI automation
-- 🌱 Always learning and growing through hands-on projects
-- 📫 Contact: gpego786@gmail.com
+![Python](https://img.shields.io/badge/PYTHON-0B0B0B?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-0B0B0B?style=flat-square&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-0B0B0B?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-0B0B0B?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-0B0B0B?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-0B0B0B?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0B0B0B?style=flat-square&logo=amazonwebservices&logoColor=white)
+![n8n](https://img.shields.io/badge/N8N-0B0B0B?style=flat-square&logo=n8n&logoColor=white)
+![Ollama](https://img.shields.io/badge/OLLAMA-0B0B0B?style=flat-square&logo=ollama&logoColor=white)
 
----
+### Selected projects
 
-### 🛠️ Technologies and Tools
+**[API AI Productivity](https://github.com/gpego1/api-ai-productivity)** — Python serverless API using LLMs for document analysis, question answering and data insights.
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-</p>
+**[AI Job Hunter](https://github.com/gpego1/ai-job-hunter)** — Job-search automation built with FastAPI, n8n, PostgreSQL and Ollama.
 
----
+**[Spring Event-Driven E-commerce](https://github.com/gpego1/spring-event-driven-ecommerce)** — Backend project exploring event-driven software architecture with Java and Spring.
 
-### 📌 Featured Projects
+### Socials
 
-| Project | Description | Stack |
-|---|---|---|
-| [spring-event-driven-ecommerce](https://github.com/gpego1/spring-event-driven-ecommerce) | E-commerce built with event-driven architecture | Java / Spring |
-| [musicApp](https://github.com/gpego1/musicApp) | Music application ⭐ | Java |
-| [api-ai-productivity](https://github.com/gpego1/api-ai-productivity) | Productivity API with AI integration | Python |
-| [url-shortener-analytics](https://github.com/gpego1/url-shortener-analytics) | URL shortener with access analytics | TypeScript |
-| [Real-Time-Chat-React-Node.js](https://github.com/gpego1/Real-Time-Chat-React-Node.js) | Real-time chat application | React / Node.js |
-| [bookapi-node-express](https://github.com/gpego1/bookapi-node-express) | REST API for books | Node.js / Express |
-
----
-
-<p align="center">
-  🔗 Check out more projects on my <a href="https://portfolio-gabriel-pego.netlify.app/">portfolio</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B0B0B?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pego-0a536729b/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B0B0B?style=flat-square&logo=netlify&logoColor=white)](https://portfolio-gabriel-pego.netlify.app/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-0B0B0B?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gbpego_/)
+[![Email](https://img.shields.io/badge/EMAIL-0B0B0B?style=flat-square&logo=gmail&logoColor=white)](mailto:gpego786@gmail.com)
